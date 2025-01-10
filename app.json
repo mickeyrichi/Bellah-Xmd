@@ -32,12 +32,12 @@
     },
   "AUTOSW_VIEW": {
       "description": "Type true if you want your bot to view status updates or else type false",
-      "value": "",
+      "value": "true",
       "required": false
     },
   "WELCOME": {
       "description": "Type true if you want your bot to send welcome or goodbye messages in groups or else type fals",
-      "value": "",
+      "value": "true",
       "required": false
     },
   "ANTI_CALL": {
@@ -62,7 +62,7 @@
     },
     "AUTO_RECORD": {
       "description": "type true if you want bot to indicate recording or else type false",
-      "value": "false",
+      "value": "true",
       "required": false
     }
     },
